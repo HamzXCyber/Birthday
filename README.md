@@ -1,14 +1,13 @@
 # Kado
--Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
+-Flower code from: https://hamzxcyber.github.io/Birthday/
 
 
 # Description
-Flower code tiktok trend 
+Flower code  
 
 Responsive Web -- bisa langsung disesuikan di file css --> style.css
 
 # Author
-- Flower Code : Md Usman Ansari (@MdUsmanAnsari)
-- Index Code : Septian Dwi Cahyo (@Septiandwica)
+- Flower Code : Ham (@ham_z1807)
 
-Thanks to codepan and mdusmanansari
+Thanks to codepan and ham
